@@ -6,11 +6,14 @@
 
 *(Guarda tus capturas de pantalla en una carpeta llamada `imagenes` dentro de este proyecto con los nombres indicados abajo, y aparecerán aquí automáticamente)*
 
-### Interfaz Visual (Frontend)
+### 1. Interfaz Visual (Frontend)
 ![Vista del Frontend](imagenes/frontend.png)
 
-### Servidor y Código (Backend)
+### 2. Servidor y Código (Backend)
 ![Vista del Backend](imagenes/backend.png)
+
+### 3. Ejecución en Terminales
+![Vista de las Terminales](imagenes/terminales.png)
 
 ---
 
